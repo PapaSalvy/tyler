@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: aquamarine;
+  font-family: Georgia;
+  font-size: 50px;
+}
+
+span {
+  font-size: 70px;
+  color: white;
+}
+
+img {
+  height: 700px;
+  width: 700px;
+  border: 5px dotted white;
+}
+
+#aye {
+  font-size: 100px;
+}
+
+a {
+ background: aquamarine;
+ border: 1px solid aquamarine;
+ border-radius: 3px;
+ color: white;
+ display: inline-block;
+ margin: 20px;
+ padding: 14px;
+ text-decoration: none;
+ font-family: Georgia;
+ font-size: 50px;
+}
